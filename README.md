@@ -8,9 +8,9 @@ Data: 10.06.2020 r.
 
 # Informacje o studencie
 
-Imię i nazwisko studenta: Imię Nazwisko  
-Numer albumu: 12345  
-Grupa studencka: WELEXXXXXX
+Imię i nazwisko studenta: Łukasz Ginalski
+Numer albumu: 725278
+Grupa studencka: WELE18DE1S1
 
 # Odpowiedzi do pytań z instrukcji
 ...
