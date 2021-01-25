@@ -13,4 +13,4 @@ Numer albumu: 725278
 Grupa studencka: WELE18DE1S1
 
 # Odpowiedzi do pytań z instrukcji
-...
+Wraz ze wzrostem temperatury prędkość silnika rośnie. Tranzystor pozwala sterować silnikiem w większym zakresie napięcia. W celu rozbudowy programu można dodać dodatkową sygnalizację diodową gdy temperatora wzrośnie lub zmalej poniżej lub powyżej wskazanego zakresu.
